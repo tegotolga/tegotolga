@@ -1,2 +1,0 @@
-# supgaming
-müzik botu
